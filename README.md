@@ -17,7 +17,7 @@
 
 | Project  | Description | Languages and Tools  |
 | ------------- | ------------- |------------- |
-| ScripterAI (Incoming) 🔒 | Helping creators save time by quickly generating tailored Youtube scripts.  | Next.js, Golang, Anthropic API, Supabase, Stripe |
+| JobCrafter (Incoming) 🔒 | Helping applicants save time by quickly generating tailored cover letters.  | Next.js, Anthropic, OpenAI, Supabase, Stripe, Resend |
 | [Anonymizer](https://github.com/vladarama/log-anonymizer) 🕵️‍♂️ | Maintaining privacy by anonymizing sensitive information in log files. | Python and a LOT of Regex |
 | [GitFit](https://github.com/vladarama/gitfit) 💪 | Streamlining sport center management by enabling gym owners and instructors to organize classes while providing customers with a user-friendly platform to manage their fitness journey.  | Java, Vue.js, Spring Boot, JUnit, PostgreSQL |
 
