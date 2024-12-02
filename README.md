@@ -19,8 +19,9 @@
 | ------------- | ------------- |------------- |
 | [JobCrafter](https://www.jobcrafter.co/) ✍🏻 | Helping applicants save time by generating tailored cover letters using AI.  | Next.js, OpenAI, Supabase, Stripe, Resend |
 | [Expensify](https://expense-tracker-react-ggd9d8cteddacfa6.canadacentral-01.azurewebsites.net/categories) 💰 | Simplify your finances, visualize your future  | React, Golang, Docker, Azure, PostgreSQL|
-| [Anonymizer](https://github.com/vladarama/log-anonymizer) 🕵️‍♂️ | Maintaining privacy by anonymizing sensitive information in log files. | Python and a LOT of Regex |
 | [GitFit](https://github.com/vladarama/gitfit) 💪 | Streamlining sport center management by enabling gym owners and instructors to organize classes while providing customers with a user-friendly platform to manage their fitness journey.  | Vue.js, Spring Boot, AWS, PostgreSQL |
+| [Anonymizer](https://github.com/vladarama/log-anonymizer) 🕵️‍♂️ | Maintaining privacy by anonymizing sensitive information in log files. | Python and a LOT of Regex |
+
 
 ## Let's Connect ! 🤝
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vladarama/)
