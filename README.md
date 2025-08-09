@@ -1,18 +1,17 @@
 # Hey there ! I'm Vlad ! 👋
 
 ## About Me 🏎️
-- I'm a 3rd-year software engineering student at McGill University 🍁
-- I have experience in **full-stack** development with a focus on developer tools 🔨
-- I completed 2 internships at Ericsson working on applications like [Eclipse Theia] and [Trace Compass] 🖥️
+- I'm a 4th year software engineering student at McGill University 🍁
+- I also completed an internship at Analytic Partners, improving real-time data systems and microservices for marketing analytics 🚀
+- I completed 2 internships at Ericsson working on open-source applications like [Eclipse Theia] and [Trace Compass] 🖥️
 
 [Eclipse Theia]: https://github.com/eclipse-theia/theia
 [Trace Compass]: https://github.com/eclipse-tracecompass
 
 ## Technical Experience ⌨️
-**Programming Languages**: TypeScript, JavaScript, Java, Python, Golang, C, OCaml, SQL, Bash, HTML, CSS
+**Programming Languages**: Python, Java, TypeScript, JavaScript, Golang, SQL, C, OCaml
 
-**Tools and Frameworks**: Git, Spring, Flask, Node.js, Next.js, Express, React, Vue, Electron, PostgreSQL, Docker, AWS, Azure
-
+**Tools and Frameworks**: React, Redux, Node.js, Flask, Spring Boot, Next.js, Vue.js, Electron.js, Docker, AWS, Azure, MongoDB, PostgreSQL
 ## Recent Projects 📚
 
 | Project  | Description | Languages and Tools  |
