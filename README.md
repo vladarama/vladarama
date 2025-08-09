@@ -2,7 +2,7 @@
 
 ## About Me 🏎️
 - I'm a 4th year software engineering student at McGill University 🍁
-- I also completed an internship at Analytic Partners, improving real-time data systems and microservices for marketing analytics 🚀
+- I also completed an internship at Analytic Partners, improving real-time system performance for marketing analytics 🚀
 - I completed 2 internships at Ericsson working on open-source applications like [Eclipse Theia] and [Trace Compass] 🖥️
 
 [Eclipse Theia]: https://github.com/eclipse-theia/theia
